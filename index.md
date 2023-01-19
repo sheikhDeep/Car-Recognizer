@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: pag
+layout: page
 ---
 
 # Image Recognizer
