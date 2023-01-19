@@ -26,7 +26,7 @@ Details can be found in `car_data_prep.ipynb`
 
 # Model Deployment
 I deployed the model to HuggingFace Spaces using Gradio App. The implementation can be found in `deployment` folder or [here]( https://huggingface.co/spaces/sheikhDeep/car-recognizer). <br/>
-<img src='deployment/gradio_app.png' width='600' height='300'>
+<img src='deployment/gradio_app.png' width='800' height='400'>
 
 # API integration with GitHub Pages
 The deployed model API is integrated [here](sheikhdeep.github.io/Car-Recognizer/) in GitHub Pages website. Implementation and other details can be found in `docs` folder.
