@@ -1,0 +1,11 @@
+remote_theme: daattali/beautiful-jekyll@master
+
+plugins:
+- jekyll-remote-theme
+
+title: Car Recognizer
+
+description: An image classification API that classifies 10 different car models
+
+author:
+  name: Sk Shabaz
